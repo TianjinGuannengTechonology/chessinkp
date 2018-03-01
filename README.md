@@ -2,7 +2,7 @@
 
 水墨五子棋掌上平台可能是目前最具挑战性的五子棋对战平台。
 
-![]()
+![](https://github.com/TianjinGuannengTechonology/chessinkp/blob/master/cipbg.png)
 
 ## 二、功能介绍
 
